@@ -63,6 +63,14 @@ GenMuonEta         72  -3.6      +3.6
 GenMuonPhi         36  -3.15     +3.15
 GenDiTauMass      100   0.    10000.
 GenZDiLepMass	  1000	0.	 5000.
+
+
+GenNeutralino2Mass	400	0.	400.
+GenNeutralino1Mass 	400	0.	400.
+GenChargino1Mass   	400	0.	400.
+GenStauMass        	400	0.	400.
+
+
 //GenHadTauFrac_scalar	  100	0.    1.
 //GenHadTauFrac_vector	  100	0.    1.
 //GenDeltaR		  100	0.    10.
